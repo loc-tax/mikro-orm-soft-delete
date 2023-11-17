@@ -1,5 +1,7 @@
 # Mikro ORM Soft Delete
 
+Temp publish until https://github.com/TheNightmareX/mikro-orm-soft-delete/pull/3 is merged.
+
 Generic soft delete solution for MikroORM.
 
 ```
